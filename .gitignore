@@ -1,0 +1,6 @@
+wp-config.php
+wp-content/uploads/
+wp-content/plugins/
+wp-content/themes/ton-theme-a-toi
+node_modules/
+vendor/
